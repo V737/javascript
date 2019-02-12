@@ -1,6 +1,6 @@
 body {
 	background: #04A1BF;
-	background-image: url('source.gif');
+	background-image: url(source.gif);
 	background-position: center;
 	background-size: cover;
 	background-position:  right;
